@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Random Post</title>
+  <link rel="preconnect" href="https://imageio.forbes.com/blogs-images/alfredkonuwa/files/2017/08/Brock_Lesnar_bio.png?height=399&width=711&fit=bounds">
+  <link rel="stylesheet" href="https://imageio.forbes.com/blogs-images/alfredkonuwa/files/2017/08/Brock_Lesnar_bio.png?height=399&width=711&fit=bounds">
+  <style>
+    body {
+      font-family: 'Libre Baskerville', serif;
+      margin: 0;
+      padding: 0;
+      background-color: black;
+      color: white;
+    }
+    .container {
+      width: 50%;
+      margin-left: 25%;
+      text-align: center;
+    }
+    img {
+      width: 100%;
+      border: 5px solid white;
+    }
+    h1 {
+      text-transform: uppercase;
+      margin-bottom: 20px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Random Post</h1>
+    <p>Brock Edward Lesnar (/ˈlɛznər/ LEZ-nər; born July 12, 1977) is an American professional wrestler and former mixed martial artist, amateur wrestler, and professional American football player. As a professional wrestler, he is currently signed to WWE but as of 2023 is on hiatus from active competition.</p>
+    <img src="https://imageio.forbes.com/blogs-images/alfredkonuwa/files/2017/08/Brock_Lesnar_bio.png?height=399&width=711&fit=bounds" alt="Random Image">
+  </div>
+</body>
+</html>
